@@ -105,7 +105,7 @@
 放松的时候，整理了一下自己的
 [GitHub主页](https://github.com/jiafeimao-gjf):
 
-![](./image/screenshot-20240531-175406.png)
+![](./image/101.png)
 
 搞了科学上网工具，可以愉快的看[google Android源码](https://cs.android.com/android/platform/superproject/main)了，太开心了！
 
